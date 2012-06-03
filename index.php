@@ -1,5 +1,5 @@
 <?php
-HEEBoo JEEBIES
+HEEBEE JEEBIES
 echo "HELLO THAR\n"; 
 MEGA FATRTSI
 some new features
